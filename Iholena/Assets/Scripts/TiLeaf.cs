@@ -6,8 +6,8 @@ public class TiLeaf : MonoBehaviour
 {
    [SerializeField]
    private float _speed;
-   private float _rightLimit = 9.6f;
-   private float _leftLimit = -9.66f;
+   private float _rightLimit = 14.5f;
+   private float _leftLimit = -14.5f;
 
    // Start is called before the first frame update
    void Start()
