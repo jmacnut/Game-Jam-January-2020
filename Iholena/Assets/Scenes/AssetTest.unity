@@ -221,6 +221,11 @@ PrefabInstance:
       propertyPath: m_Constraints
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 6432123560735482238, guid: 95226596a3874475ea5b05c6fd46523e,
+        type: 3}
+      propertyPath: m_CollisionDetection
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6568280344621187996, guid: 95226596a3874475ea5b05c6fd46523e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -286,6 +291,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.712
       objectReference: {fileID: 0}
+    - target: {fileID: 6885305135036904063, guid: 95226596a3874475ea5b05c6fd46523e,
+        type: 3}
+      propertyPath: m_EdgeRadius
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885305135036904063, guid: 95226596a3874475ea5b05c6fd46523e,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95226596a3874475ea5b05c6fd46523e, type: 3}
 --- !u!1001 &6432123560735482236
@@ -299,6 +314,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BaseSprite
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432123560735482238, guid: 95226596a3874475ea5b05c6fd46523e,
+        type: 3}
+      propertyPath: m_CollisionDetection
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6568280344621187996, guid: 95226596a3874475ea5b05c6fd46523e,
         type: 3}
@@ -353,6 +373,16 @@ PrefabInstance:
     - target: {fileID: 6568280344621187996, guid: 95226596a3874475ea5b05c6fd46523e,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885305135036904063, guid: 95226596a3874475ea5b05c6fd46523e,
+        type: 3}
+      propertyPath: m_EdgeRadius
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885305135036904063, guid: 95226596a3874475ea5b05c6fd46523e,
+        type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
